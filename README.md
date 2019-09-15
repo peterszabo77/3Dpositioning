@@ -8,9 +8,8 @@ The task is to locate our, i.e. the camera, position based on the 2D image that 
 
 ## Solution
 
-- The task is solved by supervised learning using a convolutional neural network 
-- The inputs are 2D projection images with the camera locations (x and y coordinates) as labels 
+- supervised learning using a convolutional neural network 
+- the inputs are 2D projection images with the camera locations (x and y coordinates) as labels 
 
 ## Software / libraries
-
-- Python, pyTorch, OpenGL
+Python, pyTorch, OpenGL
