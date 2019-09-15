@@ -12,4 +12,4 @@ The task is to locate our, i.e. the camera, position based on the 2D image that 
 - the inputs are 2D projection images with the camera locations (x and y coordinates) as labels 
 
 ## Software / libraries
-Python, pyTorch, OpenGL
+Python, pyTorch, pyOpenGL
